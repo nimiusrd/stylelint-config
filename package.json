@@ -10,9 +10,13 @@
     "stylelint": "^10.0.0"
   },
   "devDependencies": {
-    "stylelint": "^10.0.1"
+    "stylelint": "^10.0.1",
+    "stylelint-find-rules": "^2.0.0"
   },
   "dependencies": {
     "stylelint-order": "^3.0.0"
+  },
+  "scripts": {
+    "stylelint-find-rules": "stylelint-find-rules --config index.js"
   }
 }
