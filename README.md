@@ -1,12 +1,14 @@
-# stylelint-config-nimiusrd
+# @nimiusrd/stylelint-config
+
+sharable stylelint config
 
 ## Installation
 ```bash
-yarn add -D nimiusrd/stylelint-config-nimiusrd.git
+yarn add -D @nimiusrd/stylelint-config
 ```
 or
 ```bash
-npm install nimiusrd/stylelint-config-nimiusrd.git --save-dev
+npm install @nimiusrd/stylelint-config --save-dev
 ```
 
 ## Usage
