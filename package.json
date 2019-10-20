@@ -1,6 +1,6 @@
 {
   "name": "@nimiusrd/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:nimiusrd/stylelint-config-nimiusrd.git",
   "license": "MIT",
   "author": "Yudai Udagawa <nimius.rd@gmail.com>",
