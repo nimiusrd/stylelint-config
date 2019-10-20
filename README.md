@@ -17,7 +17,7 @@ npm install @nimiusrd/stylelint-config --save-dev
 ```js
 {
   extends: [
-    'stylelint-config-nimiusrd'
+    '@nimiusrd/stylelint-config'
   ]
 }
 ```
