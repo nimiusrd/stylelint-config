@@ -17,14 +17,14 @@
     "stylelint-find-rules": "stylelint-find-rules --config index.js"
   },
   "dependencies": {
-    "stylelint-order": "^3.0.0"
+    "stylelint-order": "^4.0.0"
   },
   "devDependencies": {
-    "stylelint": "^11.1.1",
+    "stylelint": "^12.0.1",
     "stylelint-find-rules": "^2.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^11.0.0"
+    "stylelint": "^12.0.0"
   },
   "publishConfig": {
     "access": "public"
